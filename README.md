@@ -1348,3 +1348,5 @@ heroku pg:psql
 ******************************************************************************************
 ## <a name ="32"></a>32.	__Bonus: Part 2 - Special Thank You Gift (Discount Coupons)__
 ******************************************************************************************
+
+If we do as much as we can from it, then it would be wonderful!
